@@ -86,21 +86,21 @@ A segunda regra é determinar quantos dias por semana o usuário tem disponível
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/calendar.png" width="50" height="50">
+      <img src="calendar.png" width="50" height="50">
     </td>
     <td>1 dia</td>
     <td>Treino Full Body</td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/calendar.png" width="50" height="50">
+      <img src="calendar.png" width="50" height="50">
     </td>
     <td>3 dias</td>
     <td>Treino ABC</td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/calendar.png" width="50" height="50">
+      <img src="calendar.png" width="50" height="50">
     </td>
     <td>5 dias</td>
     <td>Treino ABCDE</td>
