@@ -49,21 +49,21 @@ A primeira regra para personalizar o treino é determinar o biotipo corporal do 
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/ectomorph.jpg" width="50%" height="50%">
+      <img src="ectomorph.jpg" width="50%" height="50%">
     </td>
     <td><strong>Ectomorfo</strong></td>
     <td>Corpo mais magro, difícil ganhar peso e massa muscular.</td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/mesomorph.jpg" width="50%" height="50%">
+      <img src="mesomorph.jpg" width="50%" height="50%">
     </td>
     <td><strong>Mesomorfo</strong></td>
     <td>Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.</td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/endmorph.jpg" width="50%" height="50%">
+      <img src="endmorph.jpg" width="50%" height="50%">
     </td>
     <td><strong>Endomorfo</strong></td>
     <td>Corpo com tendência a acumular gordura, maior dificuldade em perder peso.</td>
@@ -125,35 +125,35 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/dumbells.png" width="50%" height="50%">
+      <img src="dumbells.png" width="50%" height="50%">
     </td>
     <td><strong>Funcional</strong></td>
     <td>Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.</td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/4760665.png" width="50%" height="50%">
+      <img src="4760665.png" width="50%" height="50%">
     </td>
     <td><strong>Maquinário</strong></td>
     <td>Exercícios feitos em máquinas, com foco em isolar grupos musculares.</td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/barr.png" width="50%" height="50%">
+      <img src="barr.png" width="50%" height="50%">
     </td>
     <td><strong>Peso Livre</strong></td>
     <td>Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente.</td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/cardio.png" width="50%" height="50%">
+      <img src="cardio.png" width="50%" height="50%">
     </td>
     <td><strong>Cardio</strong></td>
     <td>Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.</td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/hiit.png" width="50%" height="50%">
+      <img src="hiit.png" width="50%" height="50%">
     </td>
     <td><strong>HIIT</strong></td>
     <td>Treinos intervalados de alta intensidade, ótimos para queima de gordura.</td>
