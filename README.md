@@ -241,6 +241,7 @@ Vai me ajudar a montar um treino personalizado, combinando os valores definidos 
 2.2. Regra das variáveis
 
 As regras detalham cada uma das seis variáveis.
+
 2.2.1. Regra 1: Biotipo
 
 O biotipo corporal será definido conforme o padrão relacionado abaixo, será um entre os três tipos:
